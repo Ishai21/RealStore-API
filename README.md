@@ -24,7 +24,7 @@ RealStore is an **e-commerce management system** built with **Spring Boot**, des
 ### Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/shaikirfan2349/RealStore-Postman.git
+   git clone https://github.com/Ishai21/RealStore-API
    cd RealStore-Postman
    ```
 2. **Configure Database**
